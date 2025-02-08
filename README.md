@@ -20,4 +20,5 @@ Open Source Development: Contributing and exchanging ideas with the community to
 
 📫 Contact
 LinkedIn: My Profile https://www.linkedin.com/in/ayoub-sekoum-023302200/
-![LogoSlogan](https://raw.githubusercontent.com/Ayoub-Sekoum/Ayoub-Sekoum/main/LogoSlogan.png)
+
+<img src="https://raw.githubusercontent.com/Ayoub-Sekoum/Ayoub-Sekoum/main/LogoSlogan.png" alt="LogoSlogan" width="300">
