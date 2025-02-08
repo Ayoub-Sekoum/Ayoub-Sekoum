@@ -1,6 +1,3 @@
-![LogoSlogan](https://raw.githubusercontent.com/Ayoub-Sekoum/Ayoub-Sekoum/main/LogoSlogan.png)
-
-
 👋 Hi, I'm @Ayoub-Sekoum
 I'm passionate about Microsoft solutions, with a special focus on Intune and Entra. I enjoy discovering and developing innovative approaches that integrate Microsoft technologies into dynamic and useful projects.
 
@@ -23,3 +20,4 @@ Open Source Development: Contributing and exchanging ideas with the community to
 
 📫 Contact
 LinkedIn: My Profile https://www.linkedin.com/in/ayoub-sekoum-023302200/
+![LogoSlogan](https://raw.githubusercontent.com/Ayoub-Sekoum/Ayoub-Sekoum/main/LogoSlogan.png)
