@@ -1,7 +1,5 @@
 # Hi there, I'm Ayoub Sekoum 👋
 
-![Background Image](https://github.com/Ayoub-Sekoum/Ayoub-Sekoum/blob/main/SOF.jpg)
-
 I'm passionate about Microsoft solutions, with a special focus on Intune and Entra. I enjoy discovering and developing innovative approaches that integrate Microsoft technologies into dynamic and useful projects.
 
 ## 👀 Interests and Areas of Expertise
