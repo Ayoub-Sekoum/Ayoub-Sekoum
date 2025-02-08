@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Ayoub-Sekoum/Ayoub-Sekoum/main/LogoSlogan.png
+![LogoSlogan](https://raw.githubusercontent.com/Ayoub-Sekoum/Ayoub-Sekoum/main/LogoSlogan.png)
 
 
 👋 Hi, I'm @Ayoub-Sekoum
